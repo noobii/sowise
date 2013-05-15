@@ -1,4 +1,4 @@
 sowise
 ======
 
-FUCK OFF
+LEAVE ME ALONE!
