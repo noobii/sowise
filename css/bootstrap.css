@@ -6116,7 +6116,8 @@ a.badge:focus {
   font-size: 18px;
   font-weight: 200;
   line-height: 30px;
-  color: inherit;
+  color: white;
+  background-image : url('../img/montreux_jazz.jpg');
   background-color: #eeeeee;
   -webkit-border-radius: 6px;
      -moz-border-radius: 6px;
